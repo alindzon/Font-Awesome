@@ -21,7 +21,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-common-types": "6.1.2"
+    "@fortawesome/fontawesome-common-types": "6.5.2"
   },
   "version": "6.1.2",
   "name": "@fortawesome/free-solid-svg-icons",
